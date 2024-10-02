@@ -1,1 +1,1 @@
-Teste de criação de um arquivo no meu novo repositorio. 
+Este é o meu primeiro arquivo, porém, esta alteração está sendo feita em uma branch chamada feature. Em seguida, irei realizar um PR para a branch main. 
